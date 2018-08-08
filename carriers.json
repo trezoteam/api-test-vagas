@@ -1,0 +1,27 @@
+{
+  "message": "",
+  "error": false,
+  "ShippingSeviceAvailableArray": [
+    {
+      "Carrier": "Transportadora1",
+      "CarrierCode": "T1",
+      "ServiceDescription": "Transportadora Trezo",
+      "ShippingPrice": 12.5,
+      "DeliveryTime": 4
+    },
+    {
+      "Carrier": "Transportadora2",
+      "CarrierCode": "T2",
+      "ServiceDescription": "Transportadora Magento",
+      "ShippingPrice": 20.57,
+      "DeliveryTime": 1
+    },
+    {
+      "Carrier": "Transportadora3",
+      "CarrierCode": "T3",
+      "ServiceDescription": "Transportadora PHP",
+      "ShippingPrice": 10,
+      "DeliveryTime": 9
+    }
+  ]
+}
